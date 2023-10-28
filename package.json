@@ -4,13 +4,13 @@
     "description": "![Design preview for the Password generator app coding challenge](./preview.jpg)",
     "main": "index.js",
     "scripts": {
-        "dev": "lite-server --baseDir='src'",
+        "dev": "vite",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "devDependencies": {
-        "lite-server": "^2.6.1"
+    "dependencies": {
+        "vite": "^4.5.0"
     }
 }
